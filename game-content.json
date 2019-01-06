@@ -1,0 +1,970 @@
+[
+    {
+        "Icons": "Adjective",
+        "Text": "-like"
+    },
+    {
+        "Icons": "Adjective,,Is there a term for this?",
+        "Text": "1st, 2nd, 3rd, 4th"
+    },
+    {
+        "Icons": "Adjective",
+        "Text": "3rd from the left"
+    },
+    {
+        "Icons": "Noun,Place, Civic Sructure",
+        "Text": "Airport"
+    },
+    {
+        "Icons": "Noun,Person, Plural",
+        "Text": "Alien"
+    },
+    {
+        "Icons": "Verb,Outcome",
+        "Text": "All exchanges are financial"
+    },
+    {
+        "Icons": "Verb,Outcome, Event,Specify*",
+        "Text": "Always"
+    },
+    {
+        "Icons": "Noun,Thing, Concept",
+        "Text": "American comedy"
+    },
+    {
+        "Icons": "Place, Concept, Time",
+        "Text": "Ancient times"
+    },
+    {
+        "Icons": "Noun,Person, Concept, Plural",
+        "Text": "Angel"
+    },
+    {
+        "Icons": "Noun",
+        "Text": "Animals"
+    },
+    {
+        "Icons": "Noun,Event, Conceot",
+        "Text": "Apocalypse"
+    },
+    {
+        "Icons": "Verb,Event, Action",
+        "Text": "Argue"
+    },
+    {
+        "Icons": "Adjective,Description, feature",
+        "Text": "Bald"
+    },
+    {
+        "Icons": "Noun,Person, Job",
+        "Text": "Barista"
+    },
+    {
+        "Icons": "Verb,Action, State",
+        "Text": "Bathe"
+    },
+    {
+        "Icons": "Noun,Animal, Plural",
+        "Text": "Bear"
+    },
+    {
+        "Icons": "Noun,Thing, Feature",
+        "Text": "Beard"
+    },
+    {
+        "Icons": "Adjective,Description, feature",
+        "Text": "Beautiful"
+    },
+    {
+        "Icons": "Verb,Event",
+        "Text": "Became sentient"
+    },
+    {
+        "Icons": "Character, Concept",
+        "Text": "Benjamin button"
+    },
+    {
+        "Icons": "Noun,Thing, Vehicle",
+        "Text": "Bike"
+    },
+    {
+        "Icons": "Adjective, Verb, Noun,Descripion, Feature, Thing",
+        "Text": "Blind"
+    },
+    {
+        "Icons": "Noun,Thing, Vehicle",
+        "Text": "Boat"
+    },
+    {
+        "Icons": "Verb",
+        "Text": "Boredom"
+    },
+    {
+        "Icons": "Verb,Outcome",
+        "Text": "Brave new world?"
+    },
+    {
+        "Icons": "Thing, Concept, Culture",
+        "Text": "British comedy"
+    },
+    {
+        "Icons": "Noun,Character, Historical Figure, Concept",
+        "Text": "Buddha"
+    },
+    {
+        "Icons": "Noun,Person, Job",
+        "Text": "Builder"
+    },
+    {
+        "Icons": "Verb",
+        "Text": "Came back from the dead"
+    },
+    {
+        "Icons": "Noun,Thing, Vehicle",
+        "Text": "Car"
+    },
+    {
+        "Icons": "Noun,Animal",
+        "Text": "Cat"
+    },
+    {
+        "Icons": "Adjective,Description, Feature",
+        "Text": "Cheerful"
+    },
+    {
+        "Icons": "Noun,Thing, Food",
+        "Text": "Cheese"
+    },
+    {
+        "Icons": "Noun,Person, Plural",
+        "Text": "Child"
+    },
+    {
+        "Icons": "Noun,Animal, Plural",
+        "Text": "Chinchilla"
+    },
+    {
+        "Icons": "Noun,Person, Character",
+        "Text": "Chosen one"
+    },
+    {
+        "Icons": "Noun,Place,Specify",
+        "Text": "City"
+    },
+    {
+        "Icons": "Adjective,Description",
+        "Text": "Clever"
+    },
+    {
+        "Icons": "Noun,Person, Job",
+        "Text": "Clown"
+    },
+    {
+        "Icons": "Noun,Animal, Plural",
+        "Text": "Cockroach"
+    },
+    {
+        "Icons": "Noun,Thing, Drink",
+        "Text": "Coffee"
+    },
+    {
+        "Icons": "Noun, Verb,Description, feature,Specify",
+        "Text": "Colour"
+    },
+    {
+        "Icons": "Event, Action",
+        "Text": "Crashed"
+    },
+    {
+        "Icons": "Noun,Creature,Specify",
+        "Text": "Creature"
+    },
+    {
+        "Icons": "Adjective,Action, Description",
+        "Text": "Crying"
+    },
+    {
+        "Icons": "Noun,Creature, Mythical Figure",
+        "Text": "Cthulhu"
+    },
+    {
+        "Icons": "Verb, Noun,Action, Description",
+        "Text": "Dance"
+    },
+    {
+        "Icons": "Adjective,Concept, State",
+        "Text": "Dark"
+    },
+    {
+        "Icons": "Noun, Verb,Concept",
+        "Text": "War"
+    },
+    {
+        "Icons": "Noun,Person, Concept",
+        "Text": "Demon"
+    },
+    {
+        "Icons": "Verb,Action",
+        "Text": "Destroy"
+    },
+    {
+        "Icons": "Verb,Action, State",
+        "Text": "Devolve"
+    },
+    {
+        "Icons": "Noun",
+        "Text": "Disease"
+    },
+    {
+        "Icons": "Noun",
+        "Text": "Drugs"
+    },
+    {
+        "Icons": "Verb, Adjective, Noun,Description, Concept",
+        "Text": "Drunk"
+    },
+    {
+        "Icons": "Adjective, Verb,Description, Concept",
+        "Text": "Dry"
+    },
+    {
+        "Icons": "Noun,Character",
+        "Text": "Dwarf"
+    },
+    {
+        "Icons": "Noun,Character",
+        "Text": "Elf"
+    },
+    {
+        "Icons": "Noun,Character, Historical Figure",
+        "Text": "Elvis"
+    },
+    {
+        "Icons": "Noun,Concept, Culture",
+        "Text": "Emojis"
+    },
+    {
+        "Icons": "Event",
+        "Text": "Environmental disaster"
+    },
+    {
+        "Icons": "Verb",
+        "Text": "Everyone speaks they rown language"
+    },
+    {
+        "Icons": "Verb,Outcome",
+        "Text": "Everything connected"
+    },
+    {
+        "Icons": "Verb,Action, Concept",
+        "Text": "Evolve"
+    },
+    {
+        "Icons": "Verb,Event, Action",
+        "Text": "Explode"
+    },
+    {
+        "Icons": "Noun,Thing, Culture",
+        "Text": "Fanzine"
+    },
+    {
+        "Icons": "Adjective,Description, Concept, Feature",
+        "Text": "Fast"
+    },
+    {
+        "Icons": "Adjective,Description, Concept, Feature",
+        "Text": "Fat"
+    },
+    {
+        "Icons": "Noun,Animal, Plural",
+        "Text": "Fish"
+    },
+    {
+        "Icons": "Noun, Verb,Action, State",
+        "Text": "Float"
+    },
+    {
+        "Icons": "Adjective",
+        "Text": "From the left"
+    },
+    {
+        "Icons": "Adjective",
+        "Text": "From the right"
+    },
+    {
+        "Icons": "Noun,Thing, Concept",
+        "Text": "Future tense"
+    },
+    {
+        "Icons": "Noun,Thing, Concept",
+        "Text": "Gender"
+    },
+    {
+        "Icons": "Adjective,Descripion, Feature",
+        "Text": "Ginger"
+    },
+    {
+        "Icons": "Noun,Event",
+        "Text": "Glitch"
+    },
+    {
+        "Icons": "Noun,Concept",
+        "Text": "Gluttony"
+    },
+    {
+        "Icons": "Noun,Character, Concept, Plural",
+        "Text": "God"
+    },
+    {
+        "Icons": "Verb,Event",
+        "Text": "Got drunk"
+    },
+    {
+        "Icons": "Noun,Person, Job, Plural",
+        "Text": "Grand parents"
+    },
+    {
+        "Icons": "Noun,Thing, Concept",
+        "Text": "Gravity"
+    },
+    {
+        "Icons": "Noun,Person, Job, Plural",
+        "Text": "Hairdresser"
+    },
+    {
+        "Icons": "Adjective,Descripion, Feature",
+        "Text": "Hairy"
+    },
+    {
+        "Icons": "Noun,Description, Food,Specify",
+        "Text": "Honey"
+    },
+    {
+        "Icons": "Outcome, Event",
+        "Text": "Human error"
+    },
+    {
+        "Icons": "Noun,Thing, Geographic",
+        "Text": "Ice"
+    },
+    {
+        "Icons": "Adjective,Description, State",
+        "Text": "Idiot"
+    },
+    {
+        "Icons": "Adjective,Description, State",
+        "Text": "Ignorant"
+    },
+    {
+        "Icons": "Verb,Event, State",
+        "Text": "Implode"
+    },
+    {
+        "Icons": "Noun,Place, Item",
+        "Text": "Barrel"
+    },
+    {
+        "Icons": "Noun,Place, Geographic",
+        "Text": "Field"
+    },
+    {
+        "Icons": "Noun,Place, Concept",
+        "Text": "Heaven"
+    },
+    {
+        "Icons": "Noun,Place, Concept",
+        "Text": "Hell"
+    },
+    {
+        "Icons": "Noun, Verb,Place, Concept, Description",
+        "Text": "Space"
+    },
+    {
+        "Icons": "Noun,Place, Item",
+        "Text": "Bath"
+    },
+    {
+        "Icons": "Adjective,Description",
+        "Text": "Indescribable"
+    },
+    {
+        "Icons": "Adjective,Concept, State",
+        "Text": "Happy"
+    },
+    {
+        "Icons": "Adjective,Concept, State",
+        "Text": "Sad"
+    },
+    {
+        "Icons": "Verb,Outcome",
+        "Text": "Inspired by"
+    },
+    {
+        "Icons": "Verb,Action",
+        "Text": "Invade"
+    },
+    {
+        "Icons": "Noun,Thing, Item",
+        "Text": "Java"
+    },
+    {
+        "Icons": "Noun,Character, Historical Figure, Conceot",
+        "Text": "Jesus"
+    },
+    {
+        "Icons": "Verb,Action",
+        "Text": "Job"
+    },
+    {
+        "Icons": "",
+        "Text": "Judgement"
+    },
+    {
+        "Icons": "Noun,Description, Concept",
+        "Text": "Knowledge"
+    },
+    {
+        "Icons": "Noun,Thing, Concept",
+        "Text": "Language"
+    },
+    {
+        "Icons": "Noun,Thing, Technology, Work Item",
+        "Text": "Laptop"
+    },
+    {
+        "Icons": "Noun,Person, Job, Plural",
+        "Text": "Lawyer"
+    },
+    {
+        "Icons": "Verb,Event",
+        "Text": "legal case"
+    },
+    {
+        "Icons": "Noun,Place, Civic Sructure",
+        "Text": "Library"
+    },
+    {
+        "Icons": "Verb,Action, Concept",
+        "Text": "Lie"
+    },
+    {
+        "Icons": "Noun, Adjective, Verb,Description, Thing",
+        "Text": "Light"
+    },
+    {
+        "Icons": "Adjective,Description, Concept",
+        "Text": "Lonely"
+    },
+    {
+        "Icons": "Verb",
+        "Text": "Lost control"
+    },
+    {
+        "Icons": "Noun, Adjective, Verb,Action, Concept",
+        "Text": "Magic"
+    },
+    {
+        "Icons": "Verb,Action",
+        "Text": "Announce"
+    },
+    {
+        "Icons": "Person, Plural",
+        "Text": "Man"
+    },
+    {
+        "Icons": "Noun,Descripion, Feature",
+        "Text": "Man Bun"
+    },
+    {
+        "Icons": "Noun,Thing, Concept",
+        "Text": "Marketing"
+    },
+    {
+        "Icons": "Noun,Concept, Culture",
+        "Text": "meme"
+    },
+    {
+        "Icons": "Noun,Thing, Item, Technology",
+        "Text": "Mobile phone"
+    },
+    {
+        "Icons": "Noun,Thing, Concept",
+        "Text": "Money"
+    },
+    {
+        "Icons": "Noun,Place, Geographic",
+        "Text": "Mountain"
+    },
+    {
+        "Icons": "Noun,Character, Historical Figure",
+        "Text": "Napoleon"
+    },
+    {
+        "Icons": "Adjective,Description, State",
+        "Text": "Nervous"
+    },
+    {
+        "Icons": "Verb,Outcome,Specify*",
+        "Text": "No"
+    },
+    {
+        "Icons": "",
+        "Text": "No one knows"
+    },
+    {
+        "Icons": "Adjective, Adverb, Pronoun,Concept",
+        "Text": "Nothing"
+    },
+    {
+        "Icons": "Noun,Thing, Weapon, Plural",
+        "Text": "Nuclear bomb"
+    },
+    {
+        "Icons": "Verb,Event",
+        "Text": "nuclear disaster"
+    },
+    {
+        "Icons": "Noun,Concept, plural",
+        "Text": "Number"
+    },
+    {
+        "Icons": "Adjective,Description, Concept",
+        "Text": "Old"
+    },
+    {
+        "Icons": "Adjective",
+        "Text": "On fire"
+    },
+    {
+        "Icons": "Noun,Thing, Vehicle, Concept",
+        "Text": "Train"
+    },
+    {
+        "Icons": "Descripion, Feature",
+        "Text": "One-eyed"
+    },
+    {
+        "Icons": "Verb,Outcome,Specify*",
+        "Text": "Only one"
+    },
+    {
+        "Icons": "Noun,Ceature",
+        "Text": "Orc"
+    },
+    {
+        "Icons": "Adjective,Descripion, Feature",
+        "Text": "Overweight"
+    },
+    {
+        "Icons": "Noun,Thing, Concept",
+        "Text": "Past tense"
+    },
+    {
+        "Icons": "Noun,Person, Concept",
+        "Text": "Person"
+    },
+    {
+        "Icons": "Noun,Animal",
+        "Text": "Pig"
+    },
+    {
+        "Icons": "Noun,Thing, Concept, Entertainment,Specify",
+        "Text": "Musical Instrument"
+    },
+    {
+        "Icons": "Noun,Person, Job, Plural",
+        "Text": "Police"
+    },
+    {
+        "Icons": "Noun,Person, Job, Plural",
+        "Text": "Politician"
+    },
+    {
+        "Icons": "Noun,Place, Civic Sructure",
+        "Text": "Power Station"
+    },
+    {
+        "Icons": "Noun,Software, Work Tool",
+        "Text": "Powerpoint"
+    },
+    {
+        "Icons": "Noun,Person",
+        "Text": "Preppers"
+    },
+    {
+        "Icons": "Verb,Event",
+        "Text": "Pressed the wrong button"
+    },
+    {
+        "Icons": "Noun,Thing, Concept",
+        "Text": "Prophecy"
+    },
+    {
+        "Icons": "Noun,Thing, Concept",
+        "Text": "Punctuation"
+    },
+    {
+        "Icons": "Noun,Concept, Culture",
+        "Text": "Reality TV"
+    },
+    {
+        "Icons": "Verb,Action, State",
+        "Text": "Ride"
+    },
+    {
+        "Icons": "Noun,Place, Geographic",
+        "Text": "River"
+    },
+    {
+        "Icons": "Noun,Thing, Technology, Plural",
+        "Text": "Robot"
+    },
+    {
+        "Icons": "Verb,Outcome",
+        "Text": "Runs backwards"
+    },
+    {
+        "Icons": "Adjective,Description, Concept",
+        "Text": "Sad"
+    },
+    {
+        "Icons": "Noun,Character",
+        "Text": "Santa"
+    },
+    {
+        "Icons": "Noun,Place",
+        "Text": "Seat of government"
+    },
+    {
+        "Icons": "Noun,Thing, Concept,Optional specify?",
+        "Text": "Sex"
+    },
+    {
+        "Icons": "Noun,Animal, Plural",
+        "Text": "Sheep"
+    },
+    {
+        "Icons": "Noun,Character",
+        "Text": "Sherlock Holmes"
+    },
+    {
+        "Icons": "Noun,Thing, Item, Clothing, Plural",
+        "Text": "Shoe"
+    },
+    {
+        "Icons": "Adjective,Description, Feature",
+        "Text": "Short"
+    },
+    {
+        "Icons": "Adjective,Description, Concept",
+        "Text": "Sick"
+    },
+    {
+        "Icons": "Verb,Description, Concept",
+        "Text": "Sit"
+    },
+    {
+        "Icons": "Adjective,Description, Feature",
+        "Text": "Skinny"
+    },
+    {
+        "Icons": "Noun,Thing, Item",
+        "Text": "Sky Mall catalogues"
+    },
+    {
+        "Icons": "Verb,Outcome",
+        "Text": "Slavery"
+    },
+    {
+        "Icons": "Noun,Action",
+        "Text": "Sleeping"
+    },
+    {
+        "Icons": "Adjective,Description, Concept",
+        "Text": "Slow"
+    },
+    {
+        "Icons": "Adjective,Description, Feature",
+        "Text": "Smelly"
+    },
+    {
+        "Icons": "Noun,Action",
+        "Text": "Smoking"
+    },
+    {
+        "Icons": "Noun,Description, State",
+        "Text": "Snow"
+    },
+    {
+        "Icons": "Noun,Thing, Concept, Culture",
+        "Text": "Social Media"
+    },
+    {
+        "Icons": "Noun,Thing, Technology, Work Item",
+        "Text": "Software"
+    },
+    {
+        "Icons": "Noun,Person, Job",
+        "Text": "Soldier"
+    },
+    {
+        "Icons": "Noun,Thing, Concept",
+        "Text": "Sound"
+    },
+    {
+        "Icons": "Noun,Thing, Technology, Work Item",
+        "Text": "Spreadsheet"
+    },
+    {
+        "Icons": "Verb,Event",
+        "Text": "Started a podcast"
+    },
+    {
+        "Icons": "Verb,Event",
+        "Text": "Started a TV show"
+    },
+    {
+        "Icons": "Verb,Description, State",
+        "Text": "Sterile"
+    },
+    {
+        "Icons": "Description, Feature",
+        "Text": "Stupid"
+    },
+    {
+        "Icons": "Verb",
+        "Text": "Stupidity"
+    },
+    {
+        "Icons": "Verb,Action, Concept",
+        "Text": "Sue"
+    },
+    {
+        "Icons": "Noun,Person, Plural",
+        "Text": "Humanity"
+    },
+    {
+        "Icons": "Noun,Time, Concept",
+        "Text": "Sunday"
+    },
+    {
+        "Icons": "Noun,Description, State",
+        "Text": "Sunshine"
+    },
+    {
+        "Icons": "Verb,Outcome",
+        "Text": "Surveilance"
+    },
+    {
+        "Icons": "Adjective,Description, Feature",
+        "Text": "Tall"
+    },
+    {
+        "Icons": "Adjective,Description",
+        "Text": "Tasteless"
+    },
+    {
+        "Icons": "Noun,Disease",
+        "Text": "The common cold"
+    },
+    {
+        "Icons": "Noun,Thing, Concept",
+        "Text": "The contents of old laptop"
+    },
+    {
+        "Icons": "Noun,Creature, Concept",
+        "Text": "The Devil"
+    },
+    {
+        "Icons": "Noun,Thing, Concept",
+        "Text": "The force"
+    },
+    {
+        "Icons": "Noun,Thing, Concept",
+        "Text": "The future"
+    },
+    {
+        "Icons": "Noun,Thing, Concept, Culture",
+        "Text": "The Internet"
+    },
+    {
+        "Icons": "Noun,Person,Specify",
+        "Text": "The King / Queen"
+    },
+    {
+        "Icons": "Noun,Person",
+        "Text": "The Police"
+    },
+    {
+        "Icons": "Noun,Person, Character",
+        "Text": "The Prophet Muhammed"
+    },
+    {
+        "Icons": "Verb,Outcome",
+        "Text": "Things happen backwards"
+    },
+    {
+        "Icons": "Noun,Time, Concept",
+        "Text": "Time"
+    },
+    {
+        "Icons": "Adverb,Time, Concept",
+        "Text": "Tomorrow"
+    },
+    {
+        "Icons": "Verb,Outcome, Event,Specify*",
+        "Text": "Too much"
+    },
+    {
+        "Icons": "Noun,Place, Civic Sructure",
+        "Text": "Tower block"
+    },
+    {
+        "Icons": "Noun,Thing, Vehicle, Concept",
+        "Text": "Train"
+    },
+    {
+        "Icons": "Noun,Person, Job",
+        "Text": "Train driver"
+    },
+    {
+        "Icons": "Noun,Clothing",
+        "Text": "Trenchcoat"
+    },
+    {
+        "Icons": "Noun,Thing, Tool",
+        "Text": "Turkey inseminator"
+    },
+    {
+        "Icons": "Noun,Thing, Concept",
+        "Text": "TV"
+    },
+    {
+        "Icons": "Adjective",
+        "Text": "Twitchy"
+    },
+    {
+        "Icons": "Adjective,Description, Feature, Concept",
+        "Text": "Ugly"
+    },
+    {
+        "Icons": "Noun,Place",
+        "Text": "Underground"
+    },
+    {
+        "Icons": "Adjective,Description, Concept, Place",
+        "Text": "Unremarkable"
+    },
+    {
+        "Icons": "Noun,Place",
+        "Text": "Up a pole"
+    },
+    {
+        "Icons": "Adverb, Adjective,Description, State",
+        "Text": "Upside down"
+    },
+    {
+        "Icons": "Verb,Outcome,Specify*",
+        "Text": "Vanished"
+    },
+    {
+        "Icons": "Verb,Event",
+        "Text": "Vengence"
+    },
+    {
+        "Icons": "Noun,Geographical Feature",
+        "Text": "Volcano"
+    },
+    {
+        "Icons": "Noun,Thing, Concept",
+        "Text": "Voting"
+    },
+    {
+        "Icons": "Noun,Thing, Concept",
+        "Text": "War"
+    },
+    {
+        "Icons": "Noun,Action",
+        "Text": "Washing"
+    },
+    {
+        "Icons": "Noun,Geographical Feature",
+        "Text": "Water"
+    },
+    {
+        "Icons": "Verb",
+        "Text": "Wearing"
+    },
+    {
+        "Icons": "Verb,Event",
+        "Text": "Went black and white"
+    },
+    {
+        "Icons": "Verb,Event",
+        "Text": "Were right"
+    },
+    {
+        "Icons": "Verb,Event",
+        "Text": "Were telling the truth"
+    },
+    {
+        "Icons": "Verb,Outcome",
+        "Text": "Were the bad ones"
+    },
+    {
+        "Icons": "Verb,Outcome",
+        "Text": "Were the good ones"
+    },
+    {
+        "Icons": "Verb,Event",
+        "Text": "Were wrong"
+    },
+    {
+        "Icons": "Adjective,Description, State",
+        "Text": "Wet"
+    },
+    {
+        "Icons": "Noun,Thing, Concept",
+        "Text": "Wikipedia"
+    },
+    {
+        "Icons": "Noun,Person, Plural",
+        "Text": "Woman"
+    },
+    {
+        "Icons": "Noun,Animal, Plural",
+        "Text": "Wombat"
+    },
+    {
+        "Icons": "Noun,Thing, Concept",
+        "Text": "Words"
+    },
+    {
+        "Icons": "Noun,Person, Job",
+        "Text": "World leader"
+    },
+    {
+        "Icons": "Thing, Concept",
+        "Text": "Y2K"
+    },
+    {
+        "Icons": "Adverb,Time, Concept",
+        "Text": "Yesterday"
+    },
+    {
+        "Icons": "Adjective,Description, Concept",
+        "Text": "Young"
+    },
+    {
+        "Icons": "Thing, Culture",
+        "Text": "YouTube"
+    },
+    {
+        "Icons": "Number,Concept",
+        "Text": "Zero"
+    },
+    {
+        "Icons": "Noun,Creature, Concept, Plural",
+        "Text": "Zombies"
+    }
+]
