@@ -1,0 +1,28 @@
+{
+  "name": "odtwe",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "messenger": "node messenger.js",
+    "slack": "node slack.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/ChrisChinchilla/odtwe.git"
+  },
+  "author": "Chris Ward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/ChrisChinchilla/odtwe/issues"
+  },
+  "homepage": "https://gitlab.com/ChrisChinchilla/odtwe#README",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "request": "^2.88.0",
+    "tracery-grammar": "^2.7.3",
+    "twit": "^2.2.10"
+  }
+}
