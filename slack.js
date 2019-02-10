@@ -43,7 +43,7 @@ function handleMessage() {
   // }
 
   // Sends the response message
-  var messageLexicon = require("./node_modules/odtweg/index.js");
+  var messageLexicon = require("odtweg");
   var messageText = messageLexicon.generateLexicon();
 
   callSendAPI(messageText);

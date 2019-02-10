@@ -1,7 +1,7 @@
 let Twit = require("twit");
 require("dotenv").config();
 
-var tweetLexicon = require("./node_modules/odtweg/index.js");
+var tweetLexicon = require("odtweg");
 
 var tweetText = tweetLexicon.generateLexicon();
 console.log(tweetText);

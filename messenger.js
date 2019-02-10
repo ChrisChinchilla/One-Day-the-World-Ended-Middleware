@@ -88,9 +88,8 @@ function handleMessage(sender_psid, received_message) {
     triggerWords.includes(received_message.text.toLocaleLowerCase())
   ) {
     // Create the payload for a basic text message
-    // TODO: Refactor correctly
 
-    var messageLexicon = require("./node_modules/odtweg/index.js");
+    var messageLexicon = require("odtweg");
     var messageText = messageLexicon.generateLexicon();
 
     response = {
