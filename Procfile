@@ -1,2 +1,2 @@
 worker:  bin/run_bot.sh
-web: npm web
+web: npm run web
